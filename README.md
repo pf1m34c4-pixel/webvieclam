@@ -12,11 +12,10 @@ The project is split into `backend` and `frontend` directories. The backend is a
 
 ### PHP version
 
-This project is a simple PHP/HTML/JS/CSS job portal located in the `php/` directory.
+This project is a simple PHP/HTML/JS/CSS job portal located at the repository root.
 
 Run a built‑in server with PHP 8+:  
 ```bash
-cd php
 php -S localhost:8000
 ```
 
